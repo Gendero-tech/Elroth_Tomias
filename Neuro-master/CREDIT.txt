@@ -1,0 +1,14 @@
+This project is the result of a collaborative effort and a deep passion for AI development. If you use parts of this work, please credit the authors separately:
+
+Elroth_tomias: Lead Developer & System Architect.
+
+Kimjammer: Core Logic & Project Repository Maintainer.
+
+✨ Special Thanks & Inspiration
+Kimjammer: For the support and collaboration on this journey.
+
+VedalAI & Neuro-sama: For the incredible inspiration and for giving me the ambition to build my own autonomous AI entity.
+
+To Every Visitor: A huge thank you to anyone who simply takes the time to explore this project, browse the code, or follow Clio's evolution. Your curiosity means a lot.
+
+Original Repository: CLIO - Neuro Master

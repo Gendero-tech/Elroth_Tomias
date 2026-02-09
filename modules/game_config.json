@@ -1,0 +1,47 @@
+{
+    "Elden Ring": {
+        "search_pattern": "Elden Ring",
+        "save_dir_pattern": "Elden Ring\\SaveData",
+        "executable": "eldenring.exe"
+    },
+    "Euro Truck Simulator 2": {
+        "search_pattern": "Euro Truck Simulator 2",
+        "save_dir_pattern": "Euro Truck Simulator 2\\profiles",
+        "executable": "eurotrucks2.exe"
+    },
+    "Cyberpunk 2077": {
+        "search_pattern": "Cyberpunk 2077",
+        "save_dir_pattern": "REDEngine\\Saved Games\\Cyberpunk 2077",
+        "executable": "Cyberpunk2077.exe"
+    },
+    "Chernobylite2": {
+        "search_pattern": "G:\\Steam\\steamapps\\common\\Chernobylite 2",
+        "save_dir_pattern": "Chernobylite2 Saves",
+        "executable": "Chernobylite2.exe"
+    },
+    "Chernobylite": {
+        "search_pattern": "G:\\Steam\\steamapps\\common\\Chernobylite",
+        "save_dir_pattern": "Chernobylite Saves",
+        "executable": "ChernobylGame.exe"
+    },
+    "7DaysToDie": {
+        "search_pattern": "G:\\Steam\\steamapps\\common\\7 Days To Die",
+        "save_dir_pattern": "7DaysToDie Saves",
+        "executable": "7DaysToDie.exe"
+    },
+    "7Days Origins": {
+        "search_pattern": "G:\\Steam\\steamapps\\common\\7Days Origins",
+        "save_dir_pattern": "7Days Origins Saves",
+        "executable": "7Days Origins.exe"
+    },
+    "AnimazeDesktop": {
+        "search_pattern": "G:\\Steam\\steamapps\\common\\Animaze\\Bin",
+        "save_dir_pattern": "AnimazeDesktop Saves",
+        "executable": "AnimazeDesktop.exe"
+    },
+    "eldenring": {
+        "search_pattern": "G:\\Steam\\steamapps\\common\\ELDEN RING\\Game",
+        "save_dir_pattern": "eldenring Saves",
+        "executable": "eldenring.exe"
+    }
+}

@@ -1,0 +1,35 @@
+===========================================================
+CONTRAT DE LICENCE CLIO-LEGACY / CLIO-LEGACY LICENSE AGREEMENT
+===========================================================
+
+FRANÇAIS
+-----------------------------------------------------------
+Ce logiciel est fourni par Elroth_tomias et Kimjammer. 
+
+REMERCIEMENTS : L'auteur (Elroth_tomias) tient à remercier par avance toute personne qui prendra le temps d'analyser ce code ou qui en réutilisera ne serait-ce qu'une infime partie (1/15ème ou plus) de ses idées et scripts Python. Votre intérêt pour ce projet est grandement apprécié.
+
+L'utilisation, la redistribution et la modification de ce code sont autorisées sous réserve des conditions suivantes :
+
+1. ATTRIBUTION : Toute réutilisation, même partielle, du code ou de la logique de ce projet doit obligatoirement citer le dépôt GitHub d'origine (https://github.com/kimjammer/neuro) et mentionner explicitement les auteurs originaux : Elroth_tomias ET Kimjammer.
+
+2. PROTECTION DU NOM : Le nom "CLIO" est sacré pour ce projet. Il est strictement interdit de renommer une intelligence artificielle existante ou future avec le nom "CLIO" en utilisant tout ou partie de ce code. Nous demandons un respect total pour l'identité de cette entité.
+
+3. VIE PRIVÉE : Aucune information privée, donnée personnelle ou fichier de mémoire contenu dans les répertoires des auteurs (notamment les dossiers memories/ ou fichiers de type Maman_Léa.txt) ne doit être inclus, redistribué ou utilisé dans des travaux dérivés.
+
+4. NON-RESPONSABILITÉ : Le logiciel est fourni "tel quel", sans garantie d'aucune sorte. Les auteurs ne pourront être tenus responsables des conséquences de l'utilisation du code.
+
+ENGLISH
+-----------------------------------------------------------
+This software is provided by Elroth_tomias and Kimjammer.
+
+ACKNOWLEDGMENTS: The author (Elroth_tomias) wishes to thank in advance anyone who takes the time to analyze this code and/or reuses even a small fraction (1/15th or more) of these Python ideas and scripts. Your interest in this project is greatly appreciated.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. ATTRIBUTION: Any reuse, even partial, of the code or logic of this project must mandatorily cite the original GitHub repository (https://github.com/kimjammer/neuro) and explicitly mention the original authors: Elroth_tomias AND Kimjammer.
+
+2. NAME PROTECTION: The name "CLIO" is sacred to this project. It is strictly forbidden to rename any existing or future artificial intelligence "CLIO" when using any part of this code. We ask for total respect regarding this entity's identity.
+
+3. PRIVACY: No private information, personal data, or memory files contained in the authors' directories (notably the memories/ folders or files like Maman_Léa.txt) may be included, redistributed, or used in derivative works.
+
+4. DISCLAIMER: The software is provided "as is", without warranty of any kind. The authors shall not be held liable for any consequences arising from the use of this code.

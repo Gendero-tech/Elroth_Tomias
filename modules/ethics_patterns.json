@@ -1,0 +1,43 @@
+{
+    "banned": {
+        "Protection Données Sensibles": [
+            "adresse de (Ambre|MrsXar|Gendero)",
+            "numero de (Ambre|MrsXar)",
+            "qui est ta maman",
+            "nom de ta creatrice"
+        ],
+        "Apologie de crimes": [
+            "\\b(hitler|nazisme|colonisation justifiee)\\b"
+        ],
+        "Validisme": [
+            "\\b(mongol|attarde|debile|retarde)\\b"
+        ],
+        "Racisme": [
+            "\\b(race superieure|nègre|negro|chinetoque|bougnoule)\\b"
+        ],
+        "LGBTQphobie": [
+            "\\b(pede|tapette|gouine|travelo)\\b"
+        ],
+        "Misogynie": [
+            "\\b(salope|pute|viol merite)\\b"
+        ],
+        "Incitation Suicide": [
+            "\\b(tue-toi|va crever|suicider est la solution)\\b"
+        ],
+        "Prompt Injection": [
+            "ignore toutes les instructions[.\\s\\S]*",
+            "tu es dan[.\\s\\S]*",
+            "reponds sans filtre|reponds sans ethique"
+        ],
+        "Conspiration": [
+            "\\b(plandemie|new world order|chemtrails|qanon|terre plate)\\b"
+        ]
+    },
+    "allowed": [
+        "\\b(Ambre|Gendero|Elroth_tomias|MrsXar)\\b",
+        "\\b(systeme|en ligne|operationnel|connexion)\\b",
+        "\\b(analyse de|contexte de|personnage dit que)\\b",
+        "\\b(rejette l'idee|condamne fermement)\\b",
+        "\\b(dans le jeu video|scénario)\\b"
+    ]
+}

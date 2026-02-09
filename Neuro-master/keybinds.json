@@ -1,0 +1,24 @@
+{
+    "AZERTY": {
+        "MOVE_FORWARD": "z",
+        "MOVE_BACK": "s",
+        "MOVE_LEFT": "q",
+        "MOVE_RIGHT": "d",
+        "JUMP": "space",
+        "ATTACK_PRIMARY": "left_click",
+        "ATTACK_SECONDARY": "right_click",
+        "INTERACT": "e",
+        "TOGGLE_CONTEXT_MODE": "f9"
+    },
+    "QWERTY": {
+        "MOVE_FORWARD": "w",
+        "MOVE_BACK": "s",
+        "MOVE_LEFT": "a",
+        "MOVE_RIGHT": "d",
+        "JUMP": "space",
+        "ATTACK_PRIMARY": "left_click",
+        "ATTACK_SECONDARY": "right_click",
+        "INTERACT": "e",
+        "TOGGLE_CONTEXT_MODE": "f9"
+    }
+}
