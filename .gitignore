@@ -1,0 +1,8 @@
+clio_venv/
+__pycache__/
+*.env
+models/
+backups/
+temp_upload/
+# Exclure tes souvenirs personnels si tu veux les garder privés
+memories/Maman_Léa.txt
